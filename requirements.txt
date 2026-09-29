@@ -2,3 +2,8 @@ streamlit
 pandas
 altair
 plotly
+pytest
+
+# Optional: enables exact peak-RSS sampling on all platforms; a stdlib fallback
+# (psapi on Windows, /proc+resource on POSIX) is used when it is absent.
+psutil

@@ -1,0 +1,27 @@
+{
+  "artifacts": [
+    {
+      "bytes": 263957,
+      "file": "index.g1.6cd613405cc66999.html",
+      "name": "index.html"
+    },
+    {
+      "bytes": 273087,
+      "file": "report.g1.6cd613405cc66999.json",
+      "name": "report.json"
+    },
+    {
+      "bytes": 228267,
+      "file": "resolved.g1.6cd613405cc66999.csv",
+      "name": "resolved.csv"
+    },
+    {
+      "bytes": 336,
+      "file": "resource-usage.g1.6cd613405cc66999.json",
+      "name": "resource-usage.json"
+    }
+  ],
+  "generated_at": "2026-09-29T11:46:32Z",
+  "generation": 1,
+  "run_id": "6cd613405cc66999"
+}

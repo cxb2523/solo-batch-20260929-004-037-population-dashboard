@@ -1,0 +1,9 @@
+{
+  "generated_at": "2026-09-29T11:46:32Z",
+  "note": "volatile peak RSS is served live from memory and shown on the page; it is intentionally not persisted so reruns stay byte-identical apart from generated_at",
+  "resident_peak_bytes": 0,
+  "resident_peak_mib": 0.0,
+  "run_id": "6cd613405cc66999",
+  "samples": 0,
+  "status": "OK"
+}
